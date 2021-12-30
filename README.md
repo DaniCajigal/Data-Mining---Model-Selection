@@ -1,6 +1,6 @@
-# Practice 1: Selection of models.
+# Practice 1: Model Selection.
 
-In this practice, the evaluation of two classifiers is performed on the Iris data set.
+In this practice, the evaluation of two classifiers is performed on the Iris dataset.
 
 The classifiers used would be: LDA and KNN.
 
