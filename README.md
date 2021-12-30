@@ -1,4 +1,4 @@
-Practice 1: Selection of models.
+#Practice 1: Selection of models.
 
 In this practice, the evaluation of two classifiers is performed on the Iris data set.
 
